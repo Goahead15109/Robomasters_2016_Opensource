@@ -1,8 +1,9 @@
 #RoboMasters2016_Open_Source
 This project is all the code i wrote as NUAA AIT team member for Robomasters 2016 Session. This project is contain 3 sub project now.
-1. BaseSonarControl
-2. HeroCommandBoard
-3. M100ExtServo
+
+1.  BaseSonarControl
+2.  HeroCommandBoard
+3.  M100ExtServo
 
 ## BaseSonarControl
 We have 4 sonar module around our base to avoid the wall in base area. And the control board is Nueleo-F401RE with espruino.
